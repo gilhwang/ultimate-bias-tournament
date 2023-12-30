@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/ultimate_bias_tournament/static/js/main.bb43f606.js",
-    "static/media/img4.jpg": "/ultimate_bias_tournament/static/media/img4.1736f48f8641c035b7d1.jpg",
-    "index.html": "/ultimate_bias_tournament/index.html",
-    "main.bb43f606.js.map": "/ultimate_bias_tournament/static/js/main.bb43f606.js.map"
+    "main.js": "/ultimate-bias-tournament/static/js/main.a0a97742.js",
+    "static/media/img4.jpg": "/ultimate-bias-tournament/static/media/img4.1736f48f8641c035b7d1.jpg",
+    "index.html": "/ultimate-bias-tournament/index.html",
+    "main.a0a97742.js.map": "/ultimate-bias-tournament/static/js/main.a0a97742.js.map"
   },
   "entrypoints": [
-    "static/js/main.bb43f606.js"
+    "static/js/main.a0a97742.js"
   ]
 }
